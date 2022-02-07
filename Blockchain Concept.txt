@@ -1,0 +1,157 @@
+Blockchain:
+            Blockchain is constantly growing ledger,its keep permanant records of all the transactions in secure.
+	    leger - it contains a transaction details,
+	    Permanant - Once the transaction details inside the blockchain to put up it permanantly in the ledger,
+	    secure-Because it is used advanced crypotography to make sure that the information locked minto the blockchain.
+And all transaction is store into the blockchain so the ledger cannot changed.
+            blockchain is a chain of block ,each block contain record of transaction details,the block is once completed it will go to the permanant in blockchain DB.
+then each block is completed the new block is genarated in automatically.
+
+Advantages of Blockchain:
+            Time reduction-quick setlement.
+            Security- Blockchain used very advanced cryptography.
+            UnchangableTransaction-it cannot removed (or) modified.
+            Collbarations-Each transactions send into directly without anyother 3rd parity.
+
+Blockchain is used for,
+	   Banking,
+	   Finance,
+	   Goverment,
+	   Helthcare,
+	   Insurance,
+	   Media&Entertainment.
+
+History:
+	The blockchain is first discribed in 1991 by Stuart Flaber and W.Scott Stornatta.
+	They develope the system using the concept of cryptographically secuerd chain of blocks to store data.
+	In 1992-Merkle Tree- it contains hash concepts and data blocks.
+	in 2008-Bitcoin by Satoshi Nakamoto.
+
+Blockchain Version:
+	1.0->Currency->Internet of money.
+	2.0->Smartcontracts->Automatically Excuted
+	3.0->Decentralized Apllication->decentralized and communication
+
+Blockchain Cryptocurrency:
+	Bitcoin,
+	Litecoin,
+                  Dash,	
+	Z-Cash,
+	Monero.
+Bitcoin:
+	Bitcoin means cryptocurrency,this used and protocol of cryptography for genaration units of currency.
+	Its commenly called decentralized digital currency.
+	Bitcoin works in peer-to-peer communication.
+	Bitcoin Minors:
+		Is addind aprocess of transaction records to bitcoin public ledger of past transction.this is called blockchain.
+		It secure and verify the transaction to the rest of network.
+	Blockchain Hash Function:
+		2-properties:	
+			i)hash
+			ii)one -way-function
+		this is used secure hash algorithm(SHA-256)
+
+Basic Components of Bitcoin:
+	4 basic components:
+			Software->Everything is based on software.The bitcoin software is always operated in 24*7.
+			Cryptography-> Bitcoin uses cryptography to regulate the transfer of bitcoin between parties, as well as the creation of new units of bitcoin.Without cryptography, Bitcoin would simply not be possible.
+			Hardware->This hardware is specially designed for finding Nonce to validate block and hash. It requires a lot of CPU power to complete a simple task on the bitcoin blockchain.
+			Miners-This is the game theory.
+
+*Ethereum:
+         	Ethereum is the global,
+	Opensource for decentralized application,
+	Its control digital value,
+	And is accessible in anywhere inthe world.
+	"Ethereum is launched by 2015 and its a world wide programable blockchain".
+	Ethereum has a native cryptocurency its called ETH(ether).
+	ETH is a digital money.
+	It has same featuers like bitcoin .
+	Its  purely  digital and send it to anyone to anywhere in the world.
+	Ethereum is a programable and developer can use build in new kind of applications.
+
+*Ethereum componemnts:
+	Smart Contract->Transactions purpose-> smart contract is a computer protocol.
+				               ->allow the performence of crediable transactions without 3rd parity.
+				               ->people  from all of the world can interact and exchange value without a centralized authority thorugh this smart contract.		
+	Ether->this the digital currency
+	
+*Advantages:
+	Immutable-> That mean cannot change
+		 ->This make it impossible to hack.
+	Decentralized->That mean no need intermediary to perform the action.
+		       ->Smart contract are self-Excuted.
+	Fast Transaction->The verification and automation of blockchain transactions ensure the process is faster.
+	Secure->All transations are cryptographically secured.
+	
+*Gensis Block:
+	This is the First Block of any blockchin -based protocol.
+	This block is refferd to block zero.
+	This contain i) transaction details,
+		     ii)block size,
+		     iii)time-stamp,
+		     iv)nonce
+		     v)sender and recever details,
+		    vi)hash value.	
+
+*Minors:
+	Mining the process of transation between the sender and recever.
+	It check valid or not in  the transaction between the sender and recever .
+ 	And the minnors take some charge(money) of transaction .
+*Gas Value:
+	The minnor take some value that is called Gas value.
+	It basically internal pricing for running a transaction or contract.
+	
+*Gas Limit:
+	Gas limit is refer to maximum amount to spend to particular transactions.
+	A higher gas limits mean that more computational work must be done to execute the smart contract. 
+
+*Solitity:
+	Solitity  is an object oriented programming language for writting smart contracts.
+	It is used implements of  smart contract in various blockchain platforms.
+                 This is only used for block chain devlopment.
+	This is is statically typed programming language.
+	The result is available in every node.
+	
+*Remix Online:
+	Remix is the one of the IDE.
+	Its used for compile and deploy the smart contract.
+*Boot Node:
+	Bootnode  is the  lightweight application  used for node discovery protocol.
+	Decentralized concepts, to get permission to all block for modify some details.
+	
+*Pos:
+	POS stands for Proof Of Stake.
+	Its one of the algorithm(The order of the instructions is important,).
+	Validation block transation according to how many coin the person holds.
+
+*Pow:
+	POW stands for  Proof Of Work.
+	This is the one of the protocol(set of rules).
+	This main goal is dettering cyber attacks such as DDOS.
+
+*Web3j:
+	Web3j is a etherum  packages.
+	It Is a java API which can be used to intract with node.
+*Mist:
+	Mist is a browser to browse aAPPS hosted  in cloud.
+*Geth:
+	This is one command line tool which is interact with the blockchain.
+*Testnet:
+	This is used for testing purpose in smarcontracts.
+
+*Mainnet:
+	 Mainnet is the term used to describe when a blockchain protocol is fully developed and deployed.
+                   That meaning that cryptocurrency transactions are being broadcasted, verified, and recorded on a distributed ledger technology .
+	 This is global communication with schema.
+	 HTTP service is local communication with shema.
+*Blockchain Types:
+	Public blockchains - >Bitcoin and Ethereum
+                 Private blockchains ->Hyperledger and R3 Corda
+	Hybrid blockchains -> Dragonchain
+	
+
+	
+
+	
+            
