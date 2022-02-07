@@ -1,0 +1,21 @@
+
+
+
+Hedera is a public distributed ledger for building and deploying decentralized 
+applications and microservices. 
+You can use Hedera’s network services– Consensus, Tokens, Smart Contracts, and 
+File Service–atop the hashgraph consensus algorithm, to build applications with high throughput, 
+fair ordering, and low-latency consensus finality in seconds without 
+relying on centralized infrastructure.
+
+
+Hashgraph is a distributed consensus algorithm and data structure that is fast, fair, and secure. 
+This indirectly creates a trusted community, even when members do not necessarily trust each other. 
+Hedera is the only authorized public network to use hashgraph. 
+You can learn more about the consensus algorithm.
+
+
+A smart contract enforces the negotiation of an agreement without the need of a middle-men, 
+like a lawyer. Settled negotiations (transactions) 
+are stored on the blockchain. 
+The most well-known smart contract platform is Ethereum. Key benefits:
